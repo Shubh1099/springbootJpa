@@ -1,4 +1,4 @@
-package site.shubhm.springbootJpaApplicationTests;
+package site.shubhm.springbootJpa;
 
 import site.shubhm.springbootJpa.repository.StudentRepository;
 import site.shubhm.springbootJpa.entities.Student;
