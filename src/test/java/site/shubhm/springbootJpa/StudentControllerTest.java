@@ -1,8 +1,9 @@
-package site.shubhm.springbootJpa;
+package site.shubhm.springbootJpaApplicationTests;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import site.shubhm.springbootJpa.repository.StudentRepository;
+import site.shubhm.springbootJpa.controller.StudentController;
 import site.shubhm.springbootJpa.entities.Student;
+import site.shubhm.springbootJpa.services.StudentService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
