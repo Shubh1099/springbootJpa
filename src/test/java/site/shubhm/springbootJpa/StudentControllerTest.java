@@ -1,4 +1,4 @@
-package site.shubhm.springbootJpaApplicationTests;
+package site.shubhm.springbootJpa;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import site.shubhm.springbootJpa.controller.StudentController;
