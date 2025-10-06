@@ -1,8 +1,8 @@
 package site.shubhm.springbootJpa;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import site.shubhm.springbootJpa.entities.Student;
 import site.shubhm.springbootJpa.repository.StudentRepository;
+import site.shubhm.springbootJpa.entities.Student;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
