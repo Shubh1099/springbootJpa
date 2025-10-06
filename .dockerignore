@@ -1,0 +1,30 @@
+# Maven build output
+target/
+
+# Gradle build output
+build/
+
+# Node or frontend stuff (if any)
+node_modules/
+dist/
+
+# Git
+.git
+.gitignore
+
+# IDE & editor configs
+.idea/
+.vscode/
+*.iml
+
+# OS / temporary files
+.DS_Store
+Thumbs.db
+*.log
+
+# Docker
+Dockerfile*
+.dockerignore
+
+# Other unnecessary files
+*.md
