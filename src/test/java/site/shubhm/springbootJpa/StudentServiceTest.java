@@ -1,7 +1,8 @@
-package com.jpa.test.services;
+package site.shubhm.springbootJpaApplicationTests;
 
-import com.jpa.test.dao.StudentRepository;
-import com.jpa.test.entities.Student;
+import site.shubhm.springbootJpa.repository.StudentRepository;
+import site.shubhm.springbootJpa.entities.Student;
+import site.shubhm.springbootJpa.services.StudentService;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
